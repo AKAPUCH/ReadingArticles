@@ -1,5 +1,9 @@
 # 도움이 되었던 글과 사이트
 - 읽었을 때 도움이 되었던 포스팅들을 주제별로 정리해봤습니다.
+- [배민 송요창님](https://medium.com/@totuworld)
+
+## 협업
+- [배민의 코드리뷰](https://techblog.woowahan.com/2712/)
 
 ## 학습법
 ### [효율적인 공부방법](https://21erick.org/column/6565/)
@@ -9,7 +13,8 @@
 - 서로 질문하고 요약하는 것도 장기 기억에 나쁘지 않지만 가장 효과가 좋은 것은 모의 시험을 보는것과 일정 시간 간격으로 연습을 반복하는 것이다.
 
 ## 토이 프로젝트
-- [목적 및 각 과정들에 대한 조언](https://medium.com/@totuworld/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%80%EC%9D%B4%EB%93%9C-64f9318d197a)
+- [왜 해야될까?](https://medium.com/@totuworld/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%80%EC%9D%B4%EB%93%9C-64f9318d197a)
+- [기본적인 제작과정](https://medium.com/@totuworld/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%80%EC%9D%B4%EB%93%9C-64f9318d197a)
 ## ios
 
 ## 
