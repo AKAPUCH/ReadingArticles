@@ -1,6 +1,7 @@
 # 도움이 되었던 글과 사이트
 - 읽었을 때 도움이 되었던 포스팅들을 주제별로 정리해봤습니다.
 - [배민 송요창님](https://medium.com/@totuworld)
+- [좋은 글찾기 사이트](https://mysetting.io/)
 
 ## 협업
 - [배민의 코드리뷰](https://techblog.woowahan.com/2712/)
