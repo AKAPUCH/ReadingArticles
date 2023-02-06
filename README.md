@@ -14,7 +14,7 @@
 - 능동적 인출 학습은 수업(수동적 학습이라고 할 수 있다)후 이뤄지는게 좋고 바로 보다는 간격을 두고 하는게 좋다!
 - 서로 질문하고 요약하는 것도 장기 기억에 나쁘지 않지만 가장 효과가 좋은 것은 모의 시험을 보는것과 일정 시간 간격으로 연습을 반복하는 것이다.
 ### [야생학습은 왜 좋을까](https://medium.com/@totuworld/%EC%95%BC%EC%83%9D%ED%95%99%EC%8A%B5-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-fc35f2954a07)
-
+### [글쓰기를 꼭하자](https://medium.com/@totuworld/%EC%8B%A0%EC%9E%85-%EC%A3%BC%EB%8B%88%EC%96%B4%EC%97%90%EA%B2%8C-%EA%B8%80%EC%93%B0%EA%B8%B0%EA%B0%80-%EC%A3%BC%EB%8A%94-5%EA%B0%80%EC%A7%80-%ED%98%9C%ED%83%9D-93dec2e4a07e)
 ## 토이 프로젝트
 - [왜 해야될까?](https://medium.com/@totuworld/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%80%EC%9D%B4%EB%93%9C-64f9318d197a)
 - [기본적인 제작과정](https://medium.com/@totuworld/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%80%EC%9D%B4%EB%93%9C-64f9318d197a)
