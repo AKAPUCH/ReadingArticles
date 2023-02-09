@@ -21,6 +21,6 @@
 - [왜 해야될까?](https://medium.com/@totuworld/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%80%EC%9D%B4%EB%93%9C-64f9318d197a)
 - [기본적인 제작과정](https://medium.com/@totuworld/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%80%EC%9D%B4%EB%93%9C-64f9318d197a)
 ## ios
-[guard/if let 바인딩 변경점](https://torch-ray.tistory.com/54)
+[swift 5.7 이후 if let shorthand](https://zeddios.tistory.com/1359)
 ## 취준
 - [10개월만에 배민 입사한 ios 신입 개발자 이야기](https://torch-ray.tistory.com/3)
