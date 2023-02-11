@@ -22,7 +22,7 @@
 ### [글쓰기를 꼭하자](https://medium.com/@totuworld/%EC%8B%A0%EC%9E%85-%EC%A3%BC%EB%8B%88%EC%96%B4%EC%97%90%EA%B2%8C-%EA%B8%80%EC%93%B0%EA%B8%B0%EA%B0%80-%EC%A3%BC%EB%8A%94-5%EA%B0%80%EC%A7%80-%ED%98%9C%ED%83%9D-93dec2e4a07e)
 
 ## 토이 프로젝트
-- [왜 해야될까?](https://medium.com/@totuworld/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%80%EC%9D%B4%EB%93%9C-64f9318d197a)
+- [왜 해야될까?](https://medium.com/@totuworld/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EB%8F%84-%ED%95%99%EC%8A%B5-%EC%84%B1%EC%9E%A5-94fc304984b0)
 - [기본적인 제작과정](https://medium.com/@totuworld/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%80%EC%9D%B4%EB%93%9C-64f9318d197a)
 - [UIColor 족보](https://briangrinstead.com/blog/ios-uicolor-picker/)
 ## ios
