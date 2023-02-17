@@ -29,5 +29,6 @@
 ## ios
 - [swift 5.7 이후 if let shorthand](https://zeddios.tistory.com/1359)
 - [차근차근 시작하는 GCD 1~13](https://sujinnaljin.medium.com/ios-%EC%B0%A8%EA%B7%BC%EC%B0%A8%EA%B7%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-gcd-grand-dispatch-queue-1-397db16d0305)
+- [스토리보드없이 코드로 UI짜기 및 Snapkit](https://weekoding.tistory.com/9)
 ## 취준
 - [10개월만에 배민 입사한 ios 신입 개발자 이야기](https://torch-ray.tistory.com/3)
