@@ -2,7 +2,7 @@
 - 읽었을 때 도움이 되었던 포스팅들을 주제별로 정리해봤습니다.
 - [배민 송요창님](https://medium.com/@totuworld)
 - [K리그(?) 프로그래머님](https://jeho.page/)
-- [지마켓 글로벌((구)이베이) naljin님](https://sujinnaljin.medium.com/ios-%EC%B0%A8%EA%B7%BC%EC%B0%A8%EA%B7%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-gcd-grand-dispatch-queue-1-397db16d0305)
+- [지마켓 글로벌((구)이베이) naljin님](https://sujinnaljin.medium.com)
 - [좋은 글찾기 사이트](https://mysetting.io/)
 
 ## 협업
