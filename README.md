@@ -31,5 +31,6 @@
 - [차근차근 시작하는 GCD 1~13](https://sujinnaljin.medium.com/ios-%EC%B0%A8%EA%B7%BC%EC%B0%A8%EA%B7%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-gcd-grand-dispatch-queue-1-397db16d0305)
 - [스토리보드없이 코드로 UI짜기 및 Snapkit](https://weekoding.tistory.com/9)
 - [Value타입은 항상 스택에 저장되고 reference타입은 항상 힙에 저장될까?](https://sujinnaljin.medium.com/ios-swift%EC%9D%98-type%EA%B3%BC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%A0%80%EC%9E%A5-%EA%B3%B5%EA%B0%84-25555c69ccff)
+- [RXSwift 예제로 간단히 이해하기](https://medium.com/@bobthedeveloper/%EB%B0%A5%EA%B3%BC-%ED%95%A8%EA%BB%98-rxswift-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-4fe5eb76a9b1)
 ## 취준
 - [10개월만에 배민 입사한 ios 신입 개발자 이야기](https://torch-ray.tistory.com/3)
