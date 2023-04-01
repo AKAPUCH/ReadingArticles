@@ -4,6 +4,7 @@
 - [K리그(?) 프로그래머님](https://jeho.page/)
 - [지마켓 글로벌((구)이베이) naljin님](https://sujinnaljin.medium.com)
 - [좋은 글찾기 사이트](https://mysetting.io/)
+- [Soojin Ro](https://soojin.ro/)
 
 ## 협업
 - [배민의 코드리뷰](https://techblog.woowahan.com/2712/)
